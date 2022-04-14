@@ -1,0 +1,31 @@
+
+h1
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 130px;
+    font-size: 50px;
+    font-weight: lighter;
+    text-decoration: underline;
+    
+}
+input
+{
+    font-size:60px;
+    font-weight: 500;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    padding: 5px 45px ;
+    border: 1px solid rgb(224, 224, 224);
+    /*border-radius: 8px;*/
+}
+div
+{
+    margin-top: 0%;
+    margin-left: 400px;
+    padding: 30px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 16px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 524.4px;
+}
